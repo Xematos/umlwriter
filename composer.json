@@ -11,8 +11,6 @@
     },
     "require": {
         "php": "^7.1.3",
-        "bartlett/graph-plantuml-generator": "1.0.0-rc.2",
-        "bartlett/graph-uml": "1.0.0-rc.2",
         "goaop/parser-reflection": "^2.1",
         "psr/container": "^1.0"
     },
